@@ -1,0 +1,26 @@
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.nav-link-accountImage img, .nav-link-plus img {
+    width: 28px;
+    height: auto;
+}
+
+.navbar-custom {
+    background-color: #1e1f22;
+}
+
+.navbar-custom .nav-link {
+    color: #000000;
+}
+
+.navbar-brand {
+    margin-right: 0;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
